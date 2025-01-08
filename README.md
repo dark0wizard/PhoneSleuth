@@ -29,7 +29,7 @@ PhoneSleuth is a tool for gathering information about phone numbers from various
    }
 4. Run the script:
   ```bash
-  python main.py -h
+  python main.py {your phone number}
   ```
 
 5. First-time use with Telegram: When prompted, enter your Telegram phone number and verification code to create a session file. This file will be used for subsequent requests.
