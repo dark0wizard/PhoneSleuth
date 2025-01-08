@@ -6,7 +6,7 @@ from fake_useragent import UserAgent
 ua = UserAgent().random
 
 # Telegram (visit https://my.telegram.org/)
-TELEGRAM_API_ID = "your Telegram API ID"
+TELEGRAM_API_ID = your Telegram API ID
 TELEGRAM_API_HASH = "your Telegram API HASH"
 
 # Whatsapp (https://rapidapi.com/airaudoeduardo/api/whatsapp-data1)
